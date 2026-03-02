@@ -1,0 +1,22 @@
+# Solutions
+MLCB25_PSET1_Solutions.ipynb
+
+# Lectures
+Lectures/
+
+# Data files
+content/
+tissue_data/
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled.ipynb
+
+# Anaconda
+anaconda_projects/
+
+# macOS
+.DS_Store
+
+# Temp Word files
+~$*
