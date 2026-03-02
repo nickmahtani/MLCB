@@ -1,6 +1,6 @@
 # Machine Learning in Computational Biology (MIT 6.8701)
 
-Coursework from MIT's [Machine Learning for Genomics](https://stellar.mit.edu/S/course/6/sp25/6.8701/) course taught by Manolis Kellis. I'm working through this independently as part of a self-directed transition into computational biology.
+Coursework from MIT's [Machine Learning for Genomics](https://canvas.mit.edu/courses/33939) course taught by Manolis Kellis ([lecture videos](https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc)). I'm working through this independently as part of a self-directed transition into computational biology.
 
 ## PSET 1 Progress
 
